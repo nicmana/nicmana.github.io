@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Dragon's Tail"
-date:   2024-04-09 17:56:27 -0700
-categories: jekyll update
+date:   2024-01-09 17:56:27 -0700
+categories: games
 ---
 ### Credits
 Art: Candace Debacker
